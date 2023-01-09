@@ -21,6 +21,7 @@ print(str(n * 50) + 'ml of milk')
 
 print(str(n * 15) + 'g of coffee beans')
 
+
 #stage 3
 # Write your code here
 print('Write how many ml of water the coffee machine has:')
